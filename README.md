@@ -1,4 +1,4 @@
-# teste-backend-java
+# Teste Backend Java
 
 Seu desafio será desenvolver uma API de loja de aplicativo e, como parte dele, veremos como você estrutura as camadas de aplicação, variáveis de ambiente, cache, testes unitários, logs e documentação.
 
