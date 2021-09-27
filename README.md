@@ -44,12 +44,6 @@ Como deve ser entregue o projeto:
 
 Ao finalizar, deverá ser enviado o link do repositório e do sistema em produção pelo seguinte formulário: https://forms.gle/hPt6UY9zrmnmza73A
 
-### Avaliação
-Irá ser avaliado:
-
-+ Seu conhecimento técnico e criatividade;
-+ Sua habilidade para resolver problemas de forma simples e eficiente;
-+ Boas práticas de código.
 ---
 
 Boa sorte!
